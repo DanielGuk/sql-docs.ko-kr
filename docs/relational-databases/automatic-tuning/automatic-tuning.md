@@ -27,7 +27,7 @@ ms.locfileid: "52541169"
 
 자동 튜닝은 잠재적 쿼리 성능 문제에 대한 정보를 제공하고, 솔루션을 권장하며, 식별된 문제를 자동으로 해결하는 데이터베이스 기능입니다.
 
-자동 튜닝 [!INCLUDE[sssqlv14-md](../../includes/sssqlv14-md.md)] 잠재적인 성능 문제가 검색 되 고 정정 작업을 적용 하면 때마다 알림을 표시 하거나 있습니다를 [!INCLUDE[ssde_md](../../includes/ssde_md.md)] 자동으로 성능 문제를 해결 합니다.
+자동 튜닝 [!INCLUDE[sssqlv14-md](../../includes/sssqlv14-md.md)] 잠재적인 성능 문제를 찾고 튜닝가이드 작업을 적용할 수 있습니다. 또한 성능이슈를 찾을 때마다 알림을 표시하고 있습니다를 [!INCLUDE[ssde_md](../../includes/ssde_md.md)] 자동으로 성능 문제를 해결 합니다.
 자동 튜닝 [!INCLUDE[sssqlv14-md](../../includes/sssqlv14-md.md)] 식별 하 고으로 인 한 성능 문제를 해결할 수 있습니다 **쿼리 실행 계획 선택 재발**합니다. 자동 조정을 [!INCLUDE[ssazure_md](../../includes/ssazure_md.md)] 도 필요한 인덱스를 만들고 사용 되지 않는 인덱스를 삭제 합니다. 쿼리 실행 계획에 대 한 자세한 내용은 참조 하세요. [실행 계획](../../relational-databases/performance/execution-plans.md)합니다.
 
 [!INCLUDE[ssDEnoversion](../../includes/ssdenoversion-md.md)] 모니터는 데이터베이스에 자동으로 실행 되는 쿼리 작업의 성능이 향상 됩니다. [!INCLUDE[ssde_md](../../includes/ssde_md.md)] 에 자동으로 조정 하 고 데이터베이스 워크 로드를 동적으로 적용 하 여 쿼리의 성능을 향상 시킬 수 있는 기본 제공 인텔리전스 메커니즘이 있습니다. 사용할 수 있는 두 가지 자동 튜닝 기능을 가지 있습니다.
